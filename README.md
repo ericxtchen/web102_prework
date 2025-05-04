@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Crowdfunding site*
 
-Submitted by: **Eric Chene**
+Submitted by: **Eric Chen**
 
 **Sea Monster Crowdfunding site** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-ScreenToGi
+ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Eric Chen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
